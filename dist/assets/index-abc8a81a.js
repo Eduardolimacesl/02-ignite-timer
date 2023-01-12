@@ -117,7 +117,7 @@ Error generating stack: `+o.message+`
       color: ${e=>e.theme["green-500"]};
     }
   }
-`,_1="/assets/logo-ignite-45e013d3.svg";function E1(){return Ye(x1,{children:[Y("img",{src:_1,alt:""}),Ye("nav",{children:[Y(cf,{to:"/",title:"Timer",children:Y(S1,{size:24})}),Y(cf,{to:"/history",title:"Histórico",children:Y(w1,{size:24})})]})]})}const C1=ut.div`
+`,_1="/02-ignite-timer/assets/logo-ignite-45e013d3.svg";function E1(){return Ye(x1,{children:[Y("img",{src:_1,alt:""}),Ye("nav",{children:[Y(cf,{to:"/",title:"Timer",children:Y(S1,{size:24})}),Y(cf,{to:"/history",title:"Histórico",children:Y(w1,{size:24})})]})]})}const C1=ut.div`
   max-width: 74rem;
   height: calc(100vh - 10rem);
   margin: 5rem auto;
