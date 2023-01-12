@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Ignite timer é um timer do tipo pomodoro para .
 
-- [Acesse o projeto finalizado, online](https://eduardolimacesl)
+- [Acesse o projeto finalizado, online](https://eduardolimacesl.github.io/02-ignite-timer/)
 
 ## 🔖 Layout
 
