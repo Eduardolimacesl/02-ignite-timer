@@ -44,6 +44,7 @@ O Ignite timer é um timer do tipo pomodoro para .
 - [ ] Nas sugestões dos formulários incluir o histórico das últimas tasks;
 - [ ] Criar uma paginação ou barra de rolagem no hitórico de tarefas;
 - [ ] Criar um botão no histórico para resetar o histórico;
+- [ ] Publicar o app no github pages
 
 ## :memo: Licença
 
